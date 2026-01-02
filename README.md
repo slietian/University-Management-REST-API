@@ -24,7 +24,7 @@ students, departments, and courses in a university setting.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/swapniltake1/university-api.git
+   git clone https://github.com/slietian/University-Management-REST-API
    cd university-api
    ```
 
