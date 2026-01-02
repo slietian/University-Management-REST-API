@@ -63,9 +63,3 @@ Contributions to this project are welcome! If you find a bug or want to add a ne
 4. Push your changes to your forked repository.
 5. Create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace placeholders such as `swapniltake1`, `university-api`, and URLs with your actual repository information. You can also customize the sections, content, and formatting to better suit your project's specific needs.
